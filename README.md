@@ -37,7 +37,4 @@
         <img src="https://github-readme-stats.vercel.app/api?username=GoniGoniiiii&layout=compact&bg_color=180,00000000&title_color=000000&text_color=000000&count_private=true&show_icons=true" style="height:200px">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoniGoniiiii&layout=compact&bg_color=180,00000000&title_color=000000&text_color=000000" style="height:200px"/>
 <br><br>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoniGoniiiii&bg_color=white&color=000000&line=E8E8E8&point=000000&custom_title=고운's%20Contribution%20Graph">
-
-</a>
