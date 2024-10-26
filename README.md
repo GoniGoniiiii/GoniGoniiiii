@@ -25,7 +25,7 @@
           <h2>Tools</h2>
           <img src="https://img.shields.io/badge/Dbeaver-1997B5?style=for-the-badge&logo=DBeaver&logoColor=white">
           <img src="https://img.shields.io/badge/IntelliJ IDea-FF5A5F?style=for-the-badge&logo=IntelliJ IDea&logoColor=white">  
-          <img src="https://img.shields.io/badge/VS code-0078C0?style=for-the-badge&logo=VS Code&logoColor=white"> 
+          <img src="https://img.shields.io/badge/Visual Studio Code-0078C0?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 
           <img src="https://img.shields.io/badge/Github-FFDF6F?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-E8E8E8?style=for-the-badge&logo=Notion&logoColor=white">
           <br/>
