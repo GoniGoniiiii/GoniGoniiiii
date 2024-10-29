@@ -33,8 +33,8 @@
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
       <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=GoniGoniiiii&layout=compact&bg_color=180,00000000&title_color=000000&text_color=000000&count_private=true&show_icons=true" style="height:200px">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoniGoniiiii&layout=compact&bg_color=180,00000000&title_color=000000&text_color=000000" style="height:200px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=GoniGoniiiii&layout=compact&bg_color=180,00000000&title_color=000000&text_color=000000&count_private=true&show_icons=true" style="height:200px; width:50%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoniGoniiiii&layout=compact&bg_color=180,00000000&title_color=000000&text_color=000000" style="height:200px; "/>
       </div>
 <br><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoniGoniiiii&bg_color=white&color=000000&line=E8E8E8&point=000000&custom_title=고운's%20Contribution%20Graph">
