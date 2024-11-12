@@ -14,13 +14,11 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <h2>Frameworks&API</h2>
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-578B34?style=for-the-badge&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/JPA-90E59A?style=for-the-badge&logo=JPA&logoColor=white">
           <h2>DataBases</h2>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
           <h2>Tools</h2>
           <img src="https://img.shields.io/badge/Dbeaver-1997B5?style=for-the-badge&logo=DBeaver&logoColor=white">
           <img src="https://img.shields.io/badge/IntelliJ IDea-FF5A5F?style=for-the-badge&logo=IntelliJ IDea&logoColor=white">  
