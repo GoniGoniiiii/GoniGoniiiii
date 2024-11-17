@@ -3,7 +3,10 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 배우는 것을 두려워하지않는 삐약이 개발자(❁´◡`❁) </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 배우는 것을 두려워하지않는 삐약이 개발자. </li><br></li>배움에 목마른, 배울 준비가 돼있는 개발자 유고운입니다!</li><br></li>사용자의 편리성을 최우선으로 생각하고, 안정적이고 효율적인<br> 백엔드 시스템을 구축하여 보다 나은 서비스를 제공하는 개발자가 되고싶습니다( ˶ˆᗜˆ˵ ) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        배움을 두려워하지 않고 긍정적인 태도로 끊임없이 성장하는 삐약이 개발자, 유고운입니다! <br>하고자 하는 일에 대해서는 포기하지 않고 끝까지 달려갈 수 있는 의지를 가지고 있습니다.<br>
+        사용자의 편리성을 최우선으로 생각하며, 안정적이고 효율적인 백엔드 시스템을 구축하여<br>보다 나은 서비스를 제공하는 개발자가 되고 싶습니다! ( ˶ˆᗜˆ˵ ) 
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
